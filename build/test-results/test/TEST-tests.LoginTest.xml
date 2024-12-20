@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.LoginTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-12-20T10:48:06" hostname="Swapnils-MacBook-Air.local" time="9.767">
+  <properties/>
+  <testcase name="testLogin[0](public void tests.LoginTest.testLogin(java.lang.reflect.Method) throws java.lang.InterruptedException)" classname="tests.LoginTest" time="9.767"/>
+  <system-out><![CDATA[16:17:55.901 [Test worker] INFO base.TestBase -- Initializing playwright
+16:18:04.480 [Test worker] INFO base.TestBase -- launched browser com.microsoft.playwright.impl.BrowserImpl@16fdec90 
+16:18:05.166 [Test worker] INFO base.TestBase -- navigating to https://albertsonscompanies--jarvis.sandbox.my.salesforce.com/
+16:18:06.859 [Test worker] INFO tests.LoginTest -- performing login test
+16:18:06.922 [Test worker] INFO pages.LoginPage -- typed username: trinadh.badugunnala@albertsons.com.jarvis
+16:18:07.007 [Test worker] INFO pages.LoginPage -- typed password: Amma@143
+16:18:16.603 [Test worker] INFO tests.LoginTest -- login successfull
+16:18:16.615 [Test worker] INFO tests.LoginTest -- current title is Lightning Experience
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
